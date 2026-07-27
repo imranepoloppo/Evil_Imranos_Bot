@@ -1,6 +1,6 @@
 {
     "name": "whatsapp-md-bot",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "description": "WhatsApp MD-Style Multi-Command Bot with Baileys",
     "main": "index.js",
     "type": "commonjs",
@@ -16,7 +16,7 @@
         "baileys",
         "md"
     ],
-    "author": "Your Name",
+    "author": "Imrane Moussaid",
     "license": "MIT",
     "dependencies": {
         "@bochilteam/scraper": "^5.0.1",
