@@ -62,7 +62,7 @@ module.exports = {
     // API Keys (add your own)
     apiKeys: {
       // Add API keys here if needed
-      openai: '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',
+      openai: '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',
       deepai: '',
       remove_bg: '3h1NsrjBWP9PWaduaBuPEJFt'
     },
