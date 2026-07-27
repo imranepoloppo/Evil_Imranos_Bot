@@ -4,19 +4,19 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['9876543210'], // Add your number without + or spaces (e.g., 919876543210)
-    ownerName: ['Knight Bot'], // Owner names corresponding to ownerNumber array
+    ownerNumber: ['212617503205'], // Add your number without + or spaces (e.g., 919876543210)
+    ownerName: ['Evil Imranos'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
-    botName: 'Knight Bot Mini',
-    prefix: ',',
+    botName: 'Evil Imranos Bot',
+    prefix: '.',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '',
     newsletterJid: '120363161513685998@newsletter', // Newsletter JID for menu forwarding
     updateZipUrl: 'https://github.com/mruniquehacker/KnightBot-Mini/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
     // Sticker Configuration
-    packname: 'Knight Bot',
+    packname: 'Evil Imranos Bot',
     
     // Bot Behavior
     selfMode: false, // Private mode - only owner can use commands
@@ -81,10 +81,10 @@ module.exports = {
     },
     
     // Timezone
-    timezone: 'Asia/Kolkata',
+    timezone: 'Morroco/Rabat',
     
     // Limits
-    maxWarnings: 3,
+    maxWarnings: 4,
     
     // Social Links (optional)
     social: {
