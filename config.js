@@ -12,7 +12,7 @@ module.exports = {
     prefix: '.',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '',
-    newsletterJid: '120363161513685998@newsletter', // Newsletter JID for menu forwarding
+    newsletterJid: '120363160757210405@newsletter', // Newsletter JID for menu forwarding
     updateZipUrl: 'https://github.com/mruniquehacker/KnightBot-Mini/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
     // Sticker Configuration
@@ -62,9 +62,9 @@ module.exports = {
     // API Keys (add your own)
     apiKeys: {
       // Add API keys here if needed
-      openai: '',
+      openai: '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',
       deepai: '',
-      remove_bg: ''
+      remove_bg: '3h1NsrjBWP9PWaduaBuPEJFt'
     },
     
     // Message Configuration
